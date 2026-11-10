@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.DS_Store
+data/
+runs/
+*.npy
+*.pth
+*.safetensors
+*.predictions.json
